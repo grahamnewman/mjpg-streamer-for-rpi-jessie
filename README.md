@@ -1,12 +1,13 @@
 # mjpg-streamer-for-rpi-jessie
-How to get an mjpg streamer working on a Raspberry Pi 3 with Debian Jessie OS in plain English.
+## How to get an mjpg streamer working on a Raspberry Pi 3 with Debian Jessie OS in plain English. 
 
-## This repo o work in progress 
+## This repo is work in progress 
 
-pull a couple of libraries
-<code>
-	```sudo apt-get install libjpeg62-turbo-dev```
-</code>
+ssh into your pi and start with thse usual
+```
+sudo apt-get update
+```
+Pull a couple of libraries
 
 ```bash
 sudo apt-get install libjpeg62-turbo-dev
