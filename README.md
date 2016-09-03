@@ -9,8 +9,16 @@ sudo apt-get update
 ```
 Pull a couple of libraries
 
-```bash
+```
 sudo apt-get install libjpeg62-turbo-dev
+```
+and
+```
+sudo apt-get install cmake
+```
+Then clone the mjpg streamer from <a href="https://github.com/jacksonliam/mjpg-streamer.git" title="jackson liam"></a> and create a folder for it in the same command
+```
+git clone https://github.com/jacksonliam/mjpg-streamer.git ~/mjpg streamer
 ```
 
 
@@ -27,7 +35,7 @@ alert(s);
 
 <code>```sudo apt-get install cmake```
 </code>
-Then clone the mjpg streamer from jacksonliam, a fork from the and create a folder for it
+
 <code>```git clone https://github.com/jacksonliam/mjpg-streamer.git ~/mjpg streamer```
 </code>
 then change the directoy
