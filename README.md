@@ -2,8 +2,7 @@
 ## How to get an mjpg streamer working on a Raspberry Pi 3 with Debian Jessie OS in plain English. 
 
 
-Inline-style: 
-![alt text](https://github.com/grahamnewman/mjpg-streamer-for-rpi-jessie/raw/master/src/common/images/3099-02.jpg "Logo Title Text 1")
+![3099-02](https://cloud.githubusercontent.com/assets/7692766/18231290/e8dfdd56-72ad-11e6-8083-13a78159eaf8.jpg)
 
 
 ## This repo is work in progress 
