@@ -1,4 +1,4 @@
-# mjpg-streamer-for-rpi-jessie
+# Mjpg streamer for Rpi Jessie
 ## How to get an mjpg streamer working on a Raspberry Pi 3 with Debian Jessie OS in plain English. 
 
 
